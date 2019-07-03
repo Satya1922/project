@@ -1,5 +1,5 @@
-n=int(input())
-i=1
-for x in range(1,n+1):
-  i=i*x
-  print(i)
+y=int(input())
+z=1
+for k in range(1,y+1):
+  z=z*k
+  print(z)
